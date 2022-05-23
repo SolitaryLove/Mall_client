@@ -1,0 +1,163 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "valuesSkuJson": "{\"3|5|7\":6,\"3|4|7\":2,\"2|4|7\":3,\"2|5|7\":4}",
+        "price": 5499,
+        "categoryView": {
+            "id": 61,
+            "category1Id": 2,
+            "category1Name": "手机",
+            "category2Id": 13,
+            "category2Name": "手机通讯",
+            "category3Id": 61,
+            "category3Name": "手机"
+        },
+        "spuSaleAttrList": [
+            {
+                "id": 1,
+                "spuId": 1,
+                "baseSaleAttrId": 1,
+                "saleAttrName": "选择颜色",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 1,
+                        "spuId": 1,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "黑色",
+                        "saleAttrName": "选择颜色",
+                        "isChecked": "1"
+                    },
+                    {
+                        "id": 2,
+                        "spuId": 1,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "白色",
+                        "saleAttrName": "选择颜色",
+                        "isChecked": "0"
+                    },
+                    {
+                        "id": 3,
+                        "spuId": 1,
+                        "baseSaleAttrId": 1,
+                        "saleAttrValueName": "紫色",
+                        "saleAttrName": "选择颜色",
+                        "isChecked": "0"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "spuId": 1,
+                "baseSaleAttrId": 2,
+                "saleAttrName": "选择版本",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 1,
+                        "spuId": 1,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "64GB",
+                        "saleAttrName": "选择版本",
+                        "isChecked": "1"
+                    },
+                    {
+                        "id": 2,
+                        "spuId": 1,
+                        "baseSaleAttrId": 2,
+                        "saleAttrValueName": "128GB",
+                        "saleAttrName": "选择版本",
+                        "isChecked": "0"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "spuId": 1,
+                "baseSaleAttrId": 3,
+                "saleAttrName": "选择套装",
+                "spuSaleAttrValueList": [
+                    {
+                        "id": 1,
+                        "spuId": 1,
+                        "baseSaleAttrId": 3,
+                        "saleAttrValueName": " 官方标配",
+                        "saleAttrName": "选择套装",
+                        "isChecked": "1"
+                    },
+                    {
+                        "id": 2,
+                        "spuId": 1,
+                        "baseSaleAttrId": 3,
+                        "saleAttrValueName": " 套餐一",
+                        "saleAttrName": "选择套装",
+                        "isChecked": "0"
+                    }
+                ]
+            }
+        ],
+        "skuInfo": {
+            "id": "001",
+            "spuId": 1,
+            "price": 6299,
+            "skuName": "Apple iPhone 12 (A2223) 64GB 紫色 移动联通电信双卡双待",
+            "skuDesc": "主体\n入网型号\nA2223\n品牌\n机身厚度（mm）\n8.3\n运营商标志或内容\n无",
+            "weight": "0.47",
+            "tmId": 1,
+            "category3Id": 61,
+            "skuDefaultImg": "https://img.alicdn.com/imgextra/https://img.alicdn.com/imgextra/i3/1776456424/O1CN01gGkVvI1xKF1yxADZa_!!1776456424.jpg_430x430q90.jpg",
+            "isSale": 1,
+            "skuImageList": [
+                {
+                    "id": 1,
+                    "skuId": 2,
+                    "imgName": "63e862164165f483.jpg",
+                    "imgUrl": "https://img.alicdn.com/imgextra/i3/1776456424/O1CN01gGkVvI1xKF1yxADZa_!!1776456424.jpg_430x430q90.jpg",
+                    "spuImgId": 2,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 2,
+                    "skuId": 2,
+                    "imgName": "63e862164165f483.jpg",
+                    "imgUrl": "https://img.alicdn.com/imgextra/i2/751075004/O1CN01IcP8oG1mpsbvaKsGH_!!0-item_pic.jpg_430x430q90.jpg",
+                    "spuImgId": 2,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 3,
+                    "skuId": 2,
+                    "imgName": "63e862164165f483.jpg",
+                    "imgUrl": "https://img.alicdn.com/imgextra/i4/751075004/O1CN01BpQPNP1mpsX9aP5Qq_!!0-item_pic.jpg_430x430q90.jpg",
+                    "spuImgId": 2,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 4,
+                    "skuId": 2,
+                    "imgName": "63e862164165f483.jpg",
+                    "imgUrl": "https://img.alicdn.com/imgextra/i2/751075004/O1CN01ndQqrh1mpsTKyE5oA_!!751075004.jpg_430x430q90.jpg",
+                    "spuImgId": 2,
+                    "isDefault": "0"
+                },
+                {
+                    "id": 5,
+                    "skuId": 2,
+                    "imgName": "63e862164165f483.jpg",
+                    "imgUrl": "https://img.alicdn.com/imgextra/i4/2024314280/O1CN01YKMGsJ1hUHns4s8T7_!!2024314280.jpg_430x430q90.jpg",
+                    "spuImgId": 2,
+                    "isDefault": "0"
+                }
+            ],
+            "skuAttrValueList": [
+                {
+                    "id": 6,
+                    "attrId": 1,
+                    "valueId": 6,
+                    "skuId": 2
+                }
+            ],
+            "skuSaleAttrValueList": null
+        }
+    },
+    "ok": true
+}

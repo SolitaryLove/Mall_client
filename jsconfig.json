@@ -1,0 +1,10 @@
+// 配置src别名@的路径提示信息
+{
+    "compilerOptions":{
+      "baseUrl":"./",
+      "paths":{
+        "@/*":["src/*"]
+      }
+    },
+    "exclude": ["node_modules","dist"]
+}

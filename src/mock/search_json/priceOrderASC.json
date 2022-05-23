@@ -1,0 +1,164 @@
+{
+    "code": 200,
+    "message": "成功",
+    "data": {
+        "trademarkList": [
+            {
+                "tmId": 1,
+                "tmName": "苹果 Apple"
+            },
+            {
+                "tmId": 2,
+                "tmName": "华为 HUAWEI"
+            },
+            {
+                "tmId": 3,
+                "tmName": "荣耀 HONOR"
+            }
+        ],
+        "attrsList": [
+            {
+                "attrId": 1,
+                "attrValueList": [
+                    "移动 4G",
+                    "电信 4G",
+                    "联通 4G",
+                    "移动 5G",
+                    "电信 5G",
+                    "联通 5G",
+                    "全网通 4G",
+                    "全网通 5G"
+                ],
+                "attrName": "网络制式"
+            },
+            {
+                "attrId": 2,
+                "attrValueList": [
+                    "4.0-4.9英寸",
+                    "5.2-5.9英寸",
+                    "6.0-6.7英寸",
+                    "6.7英寸以上"
+                ],
+                "attrName": "显示屏尺寸"
+            },
+            {
+                "attrId": 3,
+                "attrValueList": [
+                    "0-500元",
+                    "500-1000元",
+                    "500-1000元",
+                    "1000-1500元",
+                    "1500-2000元",
+                    "2000-3000元",
+                    "3000元以上"
+                ],
+                "attrName": "价格"
+            },
+            {
+                "attrId": 4,
+                "attrValueList": [
+                    "GPS",
+                    "NFC",
+                    "重力感应",
+                    "红外感应",
+                    "1亿像素",
+                    "双卡双待",
+                    "Type-C"
+                ],
+                "attrName": "附加功能"
+            }
+        ],
+        "goodsList": [
+            {
+                "id": "005",
+                "defaultImg": "https://img.alicdn.com/imgextra/i1/1714128138/O1CN019fGlns29zFt2ADEov_!!1714128138.jpg_430x430q90.jpg",
+                "title": "XIAOMI MIX4 (5G)",
+                "price": 5299.00,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": "001",
+                "defaultImg": "https://img.alicdn.com/imgextra/i2/713805254/O1CN01BugSOW1ogNdMYp477_!!0-item_pic.jpg_430x430q90.jpg",
+                "title": "Apple iPhone 12 (A2223)",
+                "price": 5799,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": "003",
+                "defaultImg": "https://img.alicdn.com/imgextra/i4/1114511827/O1CN013KML8u1PMoJYsGsBK_!!1114511827.jpg_430x430q90.jpg",
+                "title": "HONOR Magic3 PRO (5G)",
+                "price": 5999,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": "002",
+                "defaultImg": "https://img.alicdn.com/imgextra/i2/2838892713/O1CN0123wzES1VubEDfjimS_!!2838892713.jpg_430x430q90.jpg",
+                "title": "HUAWEI MATE40 PRO (5G)",
+                "price": 6099,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            },
+            {
+                "id": "004",
+                "defaultImg": "https://img.alicdn.com/imgextra/i3/1710936647/O1CN01nxLHrV1yyNLryBSKn_!!1710936647.jpg_430x430q90.jpg",
+                "title": "Apple iPhone 12 PRO MAX (5G)",
+                "price": 9588.00,
+                "createTime": null,
+                "tmId": null,
+                "tmName": null,
+                "category1Id": null,
+                "category1Name": null,
+                "category2Id": null,
+                "category2Name": null,
+                "category3Id": null,
+                "category3Name": null,
+                "hotScore": 0,
+                "attrs": null
+            }
+        ],
+        "total": 8,
+        "pageSize": 2,
+        "pageNo": 1,
+        "totalPages": 4
+    },
+    "ok": true
+}
